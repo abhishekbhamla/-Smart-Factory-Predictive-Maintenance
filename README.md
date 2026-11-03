@@ -47,4 +47,4 @@ Failure class results on the evaluation dataset:
 This is an educational prototype using a synthetic dataset. It is not validated for real industrial use or safety-critical decisions.
 ## Dashboard Preview
 
-![Smart Factory Dashboard](dashboard.png)
+![Smart Factory Dashboard](images/dashboard.png)
